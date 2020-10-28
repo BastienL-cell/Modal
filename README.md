@@ -1,4 +1,7 @@
 # Modal in CSS and Javascript
+## Preview 
+![preview](https://user-images.githubusercontent.com/64157792/97442893-a1df0300-192a-11eb-91a7-305e4a4473af.png)
+
 ## Resume
 <p>A simple modal with some texte and a close button</p>
 
