@@ -10,6 +10,14 @@
     min-width: 125px;
 }
 
+
+/* --------------------------------------------------------------- */
+/* --------------------------------------------------------------- */
+/* ----------------------------- MODAL --------------------------- */
+/* --------------------------------------------------------------- */
+/* --------------------------------------------------------------- */
+
+/* Modal background  */
 .modal {
     position: absolute;
     z-index: 9999;
@@ -20,6 +28,8 @@
     background-color: rgba(0, 0, 0, 0.2);
     
 }
+
+/* --- The modal window --- */
 .modal-content {
     background-color: #fff;
     border: 1px solid #ccc;
@@ -30,11 +40,14 @@
     height: 200px;
     width: 400px;
 }
+
+/* --- Text in the modal window --- */
 .modal-content p {
     text-align: center;
-    margin-top: 35px;
+    margin-top: 50px;
 }
 
+/* --- The X icon at the top --- */
 #close-btn {
     position: absolute;
     height: 23px;
@@ -45,12 +58,12 @@
     right: 15px;
     color: #aaa;
 }
-
 #close-btn:hover {
     cursor: pointer;
     color: rgb(39, 169, 212);
 }
 
+/* --- The close button --- */
 #modal-button {
     position: absolute;
     bottom: 20px;
@@ -68,6 +81,7 @@
     /* color: rgb(39, 169, 212); */
 }
 
+/* --- blured effect --- */
 .blured {
     filter: blur(4px);
 }

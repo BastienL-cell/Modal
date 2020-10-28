@@ -1,9 +1,13 @@
 "use strict";
 
+const MODAL_TEXT = "Modal text goes here";
+
+
+
+
 const EVENT_ONCLICK = document.querySelector("#event");
 const DIV = document.querySelector("#content")
 
-const MODAL_TEXT = "You have clicked on me yeah !!!";
 
 
 EVENT_ONCLICK.addEventListener('click', () => {
