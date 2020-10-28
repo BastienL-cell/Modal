@@ -3,7 +3,7 @@
 ![preview](https://user-images.githubusercontent.com/64157792/97442893-a1df0300-192a-11eb-91a7-305e4a4473af.png)
 
 ## Resume
-<p>A simple modal with some texte and a close button</p>
+<p>A simple modal with some text and a close button</p>
 
 ## How to use it
 <p>Modify <code>MODAL_TEXT</code> in the <code>main.js</code> to modify the text displayed in the modal.</p>
