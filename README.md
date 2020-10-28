@@ -1,4 +1,4 @@
-# Modal
+# Modal in CSS and Javascript
 ## Resume
 <p>A simple modal with some texte and a close button</p>
 
